@@ -1,3 +1,8 @@
+A slack clone created by react js and redux.A google authentication used for login page.You can create chat rooms and chat with your friends.
+
+![image](https://user-images.githubusercontent.com/34640475/122670659-c309a200-d1e0-11eb-9bf4-563649b6483c.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
